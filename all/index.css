@@ -1,0 +1,813 @@
+/*Logo*/
+#zd1
+{
+/*	height: 40px;*/
+	width: 100%;
+	background-color: white;
+}
+#zd21
+{
+	height: 40px;
+	width: 50%;
+	font-size: 20px;
+	margin-top: 10px;
+	background-color: white;
+	color: gray;
+	text-align: center;
+}
+#zd22
+{
+	height: 40px;
+	width: 50%;
+	margin-top: 8px;
+	font-size: 20px;
+	background-color: white;
+	color: black;
+	text-align: center;
+}
+
+
+/*1st css*/
+a
+{
+	color: white;
+}
+a:visited
+{
+	color: white;
+	text-decoration: none;
+}
+a:hover
+{
+	color: white;
+	text-decoration: none;
+}
+a:active
+{
+	color: white;
+	text-decoration: none;
+}
+.amain
+{
+	height:800px;
+	background-image: url('bg.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	padding-top: 80px;
+	text-align: center;
+}
+.para
+{
+	margin-left: 400px;
+	margin-top: 350px;
+	font-size: 10px;
+	color:white;
+}
+.str
+{
+	font-size: 30px;
+}
+.i1
+{
+	font-size: 15px;
+	margin-top: 80px;
+	margin-left: 150px;
+}
+.i2
+{
+	font-size: 15px;
+	margin-left: 150px;
+}
+.asub
+{
+	height: 350px;
+	width:250px;
+	z-index: 1;
+	text-align: left;
+	position: absolute;
+	top:250px;
+	left:200px;
+	background-color: #323a56;
+	margin-top: 2px;
+}
+
+.para2
+{
+	color: white;
+	margin-top: 5px;
+}
+h1
+{
+	color: white;
+}
+.para2
+{
+	color:white;
+}
+.i3
+{
+	font-size: 15px;
+	margin-left: 250px;
+}
+.solid
+{
+ 	border: 1px solid white;
+ 	font-size: 12px;
+ 	color: white;
+	padding: 15px 15px 15px 15px;
+}
+.font
+{
+	font-size: 20px;
+	color: white;
+	margin-left: 20px;
+}
+.font1
+{
+	margin-left: 550px;
+}
+.i31
+{
+	margin-left: 350px;
+}
+
+
+/*2 nd css*/
+.bmain
+{
+	height: 900px;
+	background-color: #ccd1e5;
+	display: flex;
+	flex-direction: column;
+	flex-wrap: wrap;
+}
+.bmain1
+{
+	height: 310px;
+	width: 900px;
+	/*border: 1px solid;*/
+	margin-left: 25px;
+	margin-top: 20px;
+	align-self: center;
+}
+.bmain2
+{
+	height: 310px;
+	width: 900px;
+	/*border: 1px solid;*/
+	margin-left: 25px;
+	margin-top: 20px;
+	align-self: center;
+}
+.bsub1
+{
+	height: 300px;
+	width: 400px;
+	background-color: white;
+	/*border: 1px solid;*/
+	margin-left: 30px;
+	margin-top: 5px;
+	border-left: 10px solid #181D31;
+}
+.bsub2
+{
+	height: 300px;
+	width: 400px;
+	background-color: white;
+	/*border: 1px solid;*/
+	margin-left: 20px;
+	margin-top: 5px;
+	border-left: 10px solid #181D31;
+}
+.bimg1
+{
+	height: 50px;
+	width: 50px;
+	margin-top: 20px;
+	margin-left: 10px;
+}
+.bicon
+{
+	font-size: 20px;
+	color: black;
+}
+
+
+/*3 rd css*/
+#cd1
+{
+	height: 800px;
+	background-color: #323a56;
+}
+#cd2
+{
+	height: 100px;
+	width: 100%;
+	background-color: transparent;
+	text-align: center;
+}
+#ct1
+{
+	color: white;
+	font-size: 40px;
+	font-family: sans-serif;
+}
+#ct2
+{
+	color: white;
+	font-size: 15px;
+	font-family: unset;
+}
+#cd3
+{
+	height: 600px;
+	width: 100%;
+	display: flex;
+	flex-direction: column;
+	flex-wrap: wrap;
+}
+#cd4
+{
+	height: 500px;
+	width: 900px;
+	align-self: center;
+}
+#cd51
+{
+	height: 500px;
+	width: 280px;
+	align-self: center;
+}
+#cd52
+{
+	height: 500px;
+	width: 280px;
+	align-self: center;
+}
+#cd53
+{
+	height: 500px;
+	width: 280px;
+	align-self: center;
+}
+#ci1
+{
+	height: 350px;
+	width: 280px;
+}
+#ci2
+{
+	height: 350px;
+	width: 280px;
+}
+#ci3
+{
+	height: 300px;
+	width: 280px;
+}
+#ct3
+{
+	height: 250px;
+	width: 280px;
+	text-align: left;
+	background-color: #e3363c;
+}
+#ct4
+{
+	height: 250px;
+	width: 280px;
+	text-align: left;
+	background-color: #e0e5eb;
+}
+#ct5
+{
+	height: 300px;
+	width: 280px;
+	text-align: left;
+	background-color: #ffffff;
+}
+#ct6
+{
+	margin: 15px 15px;
+	color: white;
+}
+#ct7
+{
+	margin: 15px 15px;
+	color: black;
+}
+#ct8
+{
+	margin: 15px 15px;
+	color: #e3363c;
+}
+#cic1
+{
+	font-size: 50px;
+	color: white;
+	margin: 15px 15px;
+}
+#cic2
+{
+	font-size: 50px;
+	color: black;
+	margin: 15px 15px;
+}
+#cic3
+{
+	font-size: 50px;
+	color: #e3363c;
+	margin: 15px 15px;
+}
+
+
+/*4 th css*/
+#d1
+{
+   height: 600px;
+   width: 100%;
+   background-color: #ccd1e5;
+   display: flex;
+   flex-direction: column;
+   flex-wrap: wrap;
+}
+#d11
+{
+   height: 100px;
+   width: 100%;
+   background-color: #ccd1e5;
+}
+#d2
+{
+   height: 400px;
+   width: 700px;
+   align-self: center;
+}
+#d31
+{
+   height: 400px;
+   width: 50px;
+   align-self: center;
+}
+#d32
+{
+   height: 400px;
+   width: 300px;
+   align-self: center;
+}
+#d33
+{
+   height: 400px;
+   width: 300px;
+   background-color: white;
+   align-self: center;
+}
+#d34
+{
+   height: 400px;
+   width: 10px;
+   background-color: white;
+   align-self: center;
+}
+#d4
+{
+   height: 100px;
+   width: 30px;
+   margin-left: 20px;
+   background-color: #e3363c;
+   margin-top: 250px;
+   align-self: center;
+}
+#d5
+{
+   height: 150px;
+   width: 40px;
+   margin-top: 100px;
+   margin-left: 15px;
+   background-color: #e3363c;
+   align-self: center;
+}
+ .dh1
+{
+  margin-top: 80px;
+  color: black;
+}
+.dp1
+{
+  margin-left: 15px;
+  margin-top: 30px;
+  font-family: constantia;
+  font-size: 15px;
+}
+.dbtn
+{
+  font-family: calibri;
+  margin-left: 20px;
+  margin-top: 20px;
+  font-size: 15px;
+  border: 1px solid black;
+  padding: 10px 20px 10px 20px;
+  color: dark gray;
+}
+.dimg
+{
+  height: 400px;
+  width: 350px;
+}
+
+
+/*5 th css*/
+#ed1
+{
+	height: 100%;
+	width: 100%;
+	background-color: #323a56;
+	font-family: sans-serif;
+	display: flex;
+	flex-direction: column;
+	flex-wrap: wrap;
+}
+#ed2
+{
+	align-self: center;
+	flex-wrap: wrap;
+}
+#ed3	
+{
+	height: 600px;
+	width: 750px;
+}
+#ed41	
+{
+	height: 490px;
+	width: 230px;
+}
+#ed42	
+{
+	height: 490px;
+	width: 230px;
+}
+#ed43	
+{
+	height: 490px;
+	width: 290px;
+}
+#esp1
+{
+	height: 120px;
+}
+#eim1
+{
+	background-color: white;
+	height: 230px;
+	width: 210px;
+	text-align: center;
+}
+#eim2
+{
+	background-color: white;
+	height: 230px;
+	width: 210px;
+	text-align: center;
+}
+#eim3
+{
+	background-color: white;
+	height: 230px;
+	width: 210px;
+	text-align: center;
+}
+#eim4
+{
+	background-color: white;
+	height: 230px;
+	width: 210px;
+	text-align: center;
+}
+#eim5
+{
+	height: 250px;
+	width: 280px;
+	color: white;
+}
+#eb1
+{
+	color: white;
+	text-decoration: none;
+	border: 1px solid white;
+	padding: 15px 25px;
+	font-family: unset;
+}
+#eb1:visited
+{
+	color: white;
+	text-decoration: none;
+	border: 1px solid white;
+	padding: 15px 25px;
+	font-family: unset;
+}
+#eb1:hover
+{
+	color: white;
+	text-decoration: none;
+	border: 1px solid white;
+	padding: 15px 25px;
+	font-family: unset;
+}
+#eb1:active
+{
+	color: white;
+	text-decoration: none;
+	border: 1px solid white;
+	padding: 15px 25px;
+	font-family: unset;
+}
+#eima1
+{
+	height: 120px;
+	width: 120px;
+	border-radius: 70px;
+	margin: 10px 0px;
+}
+#eima2
+{
+	height: 120px;
+	width: 120px;
+	border-radius: 70px;
+	margin: 10px 0px;
+}
+#eima3
+{
+	height: 120px;
+	width: 120px;
+	border-radius: 70px;
+	margin: 10px 0px;
+}
+#eima4
+{
+	height: 120px;
+	width: 120px;
+	border-radius: 70px;
+	margin: 10px 0px;
+}
+#et1
+{
+	font-size: 17px;
+	color: black;
+}
+#et2
+{
+	font-size: 15px;
+	color: red;		
+}
+#eic1
+{
+	font-size: 18px;
+	margin-right: 10px;
+	color: black;
+}
+
+/*6 th css*/
+#f1
+{
+    height: 650px;
+    width: 100%;
+    background-color: #ccd1e5;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+.f2
+{
+    height: 300px;
+    width: 400px;
+    margin: 120px 0px 0px 300px;
+    position: absolute;
+    z-index: 2;
+    align-self: center;
+}
+.fimg
+{
+    height: 400px;
+    width: 500px;
+}
+.f3
+{
+    height: 200px;
+    width: 450px;
+    background-color: red;
+    position: relative;
+    z-index: 1;
+    left: 400px;
+    top: 70px;
+    align-self: center;
+}
+.f4
+{
+    height: 250px;
+    width: 400px;
+    background-color: white;
+    position: relative;
+    z-index: 3;
+    left: 300px;
+    top: 360px;
+    align-self: center;
+}
+#fd1
+{
+	height: 200px;
+	width: 500px;
+}
+.fh2
+{
+    font-family: calibri;
+    margin-left: 40px;
+    color: black;
+}
+.fp1
+{
+    font-family: calibri;
+    margin-left: 40px;
+    margin-top: 20px;
+    color: black;
+}
+.fbtn
+{
+   font-family: calibri;
+   margin-left: 50px;
+   margin-top: 10px;
+   font-size: 15px;
+   border: 1px solid black;
+   padding: 10px 20px 10px 20px;
+   color: dark gray;
+}
+
+
+/*7 th css*/
+.gmain
+{
+	height: 800px;
+	width: 100%;
+	background-color: #323a56;
+	display: flex;
+	flex-wrap: wrap;
+	flex-direction: column;
+}
+.gmain1
+{
+	height: 300px;
+	width: 1100px;
+	/*border: 1px solid;*/
+	/*background-color: red;*/
+	margin-left: 150px;
+	margin-top: 80px;
+	align-self: center;
+}
+.gmain2
+{
+	height: 300px;
+	width: 1100px;
+	/*border: 1px solid;*/
+	margin-left: 150px;
+	margin-top: 30px;
+	align-self: center;
+	/*background-color: blue;*/
+}
+.ga
+{
+	height: 300px;
+	width: 300px;
+	background-color: #e3363c;
+}
+.gb
+{
+	height: 300px;
+	width: 700px;
+	/*background-color: blue;*/
+	margin-left: 30px;
+}
+.gc
+{
+	height:300px;
+	width: 340px;
+	/*border: 1px solid; */
+	margin-left: 30px;
+}
+.gd
+{
+	height:300px;
+	width: 340px;
+	/*border: 1px solid; */
+	margin-left: 20px;
+}
+.gicon
+{
+	font-size: 50px;
+	color: white;
+	margin-left: 115px;
+	margin-top: 80px;
+}
+.gbold
+{
+	font-size: 15px;
+	text-align: center;
+	color: white;
+	margin-left: 20px;
+	margin-top: 50px;
+}
+.gfont1
+{
+	color: white;
+}
+.gfont2
+{
+	color: white;
+	font-size: 15px;
+}
+.gfont3
+{
+	color: white;
+	font-size: 15px;
+}
+.gi
+{
+	color: white;
+	font-size: 15px;
+}
+
+
+/*8 th css*/
+.hmain
+{
+	height: 800px;
+	background-color: #ccd1e5;
+}
+.h1
+{
+	height: 400px;
+	width: 600px;
+	/*border: 1px solid;*/
+	margin-left: 300px;
+	margin-top: 50px;
+	z-index: 1;
+	position: relative;
+}
+.h2
+{
+	height: 400px;
+	width: 550px;
+	background-color: white;
+	z-index: 2;
+	position: absolute;
+	top: 250px;
+	left: 650px;
+	/*margin-left: 100px;*/
+}
+.himg
+{
+	height: 320px;
+	width: 450px;
+}
+label
+{
+	font-size: 15px;
+}
+.hspan
+{
+	font-size: 15px;
+}
+textarea
+{
+	color: gray;
+	font-size: 15px;
+	height: 100px;
+	width: 520px;
+}
+
+
+/*end*/
+.last
+{
+	height: 200px;
+	background-color: #434242;
+}
+.last1
+{
+	font-size: 13px;
+	color: white;
+	margin-top: 30px;
+}
+.last2
+{
+	font-size: 13px;
+	color: white;
+	margin-top: 70px;
+}
+u
+{
+	color: #E5B8F4;
+}
+i
+{
+	color: white;
+}
